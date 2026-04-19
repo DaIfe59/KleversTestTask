@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="KlevernsTestTask/KlevernsTestTask.csproj" />
+  <Project Path="KlevernsTestTask2/KlevernsTestTask2.csproj" />
+  <Project Path="KlevernsTestTask3/KlevernsTestTask3.csproj" />
+</Solution>
